@@ -3,7 +3,6 @@
 
 | Название проекта | Задача | Описание | Используемые библиотеки |
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
-| [Отток клиентов из компании ТелеДом](https://github.com/zipzone07/stability/blob/main/tele_house) | Классификация (ML & DL) | Необходимо понять, каким клиентам предлагать промокоды для стимулирования сотрудничества с компанией. | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, phik, time, optuna, shap* |
 | [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | Классификация (ML & DL & NLP & CV) | В фотохостинге для профессиональных фотографов «Со Смыслом» необходимо разработать модель поиска изображений | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, pathlib, tqdm, keras, scipy, functools* |
 | [Хлеб-Соль](https://github.com/zipzone07/stability/tree/main/buyers_age) | Регрессия (DL & CV) | Фотофиксация в прикассовой зоне поможет определять возраст клиентов. | *pandas, numpy, matplotlib, plotly, keras* |
 | [Викишоп](https://github.com/zipzone07/stability/tree/main/wikishop) | Классификация (ML & NLP) | Интернет-магазин «Викишоп» запускает новый сервис. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *pandas, numpy, matplotlib, plotly, spacy, nltk, lightgbm, tqdm* |
