@@ -3,9 +3,7 @@
 
 | Название проекта | Задача | Описание | Используемые библиотеки |
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
-| [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | Классификация (ML & DL & NLP & CV) | В фотохостинге для профессиональных фотографов «Со Смыслом» необходимо разработать модель поиска изображений | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, pathlib, tqdm, keras, scipy, functools* |
 | [Хлеб-Соль](https://github.com/zipzone07/stability/tree/main/buyers_age) | Регрессия (DL & CV) | Фотофиксация в прикассовой зоне поможет определять возраст клиентов. | *pandas, numpy, matplotlib, plotly, keras* |
-| [Викишоп](https://github.com/zipzone07/stability/tree/main/wikishop) | Классификация (ML & NLP) | Интернет-магазин «Викишоп» запускает новый сервис. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *pandas, numpy, matplotlib, plotly, spacy, nltk, lightgbm, tqdm* |
 | [Предсказание ДТП](https://github.com/zipzone07/stability/tree/main/risk_accidents) | Классификация (ML) | Создание системы, которая может оценить риск ДТП по выбранному маршруту движения. | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, sqlalchemy, jinja2, phik* |
 | [Небо на ладони](https://github.com/zipzone07/stability/tree/main/star_observatory) | Регрессия (DL) | Придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд. | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings,phik, math, torch* |
 | [Продвинутый SQL](https://github.com/zipzone07/stability/tree/main/advanced_SQL) | Исследовательский анализ данных (EDA) | Демонстрация навыков владения инструментом PostgreSQL на примере базы данных сервиса вопросов и ответов о программировании. | *PostgreSQL* |
