@@ -3,6 +3,7 @@
 
 | Название проекта | Задача | Описание | Используемые библиотеки |
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
+| [Префксный поиск по каталогу](https://github.com/VitaliiNovikov75/prefix_search_solution) | Ранжирование (IR & LS) | Простая и эффективная система префиксного поиска по каталогу товаров с поддержкой коррекции раскладки и транслитерации на основе Elasticsearch. | *elasticsearch, docker-compose, flask, lxml* |
 | [Отток клиентов из компании ТелеДом](https://github.com/zipzone07/stability/blob/main/tele_house) | Классификация (ML & DL) | Необходимо понять, каким клиентам предлагать промокоды для стимулирования сотрудничества с компанией. | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, phik, time, optuna, shap* |
 | [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | Классификация (ML & DL & NLP & CV) | В фотохостинге для профессиональных фотографов «Со Смыслом» необходимо разработать модель поиска изображений | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, pathlib, tqdm, keras, scipy, functools* |
 | [Хлеб-Соль](https://github.com/zipzone07/stability/tree/main/buyers_age) | Регрессия (DL & CV) | Фотофиксация в прикассовой зоне поможет определять возраст клиентов. | *pandas, numpy, matplotlib, plotly, keras* |
