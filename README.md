@@ -3,8 +3,9 @@
 
 | Название проекта | Задача | Описание | Используемые библиотеки |
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
-| [Экстрактор требований](https://github.com/VitaliiNovikov75/normative_extractor) | R&D, Классификация (ML & NLP) | Архитектура для извлечения требований из ГОСТов и норматиыных документов. | *pandas, numpy, natasha, fastapi, streamlit, pydantic, scikit-learn, docker-compose* |
+| [Экстрактор требований](https://github.com/VitaliiNovikov75/normative_extractor) | R&D, классификация (ML & NLP) | Архитектура для извлечения требований из ГОСТов и нормативных документов. | *pandas, numpy, natasha, fastapi, streamlit, pydantic, scikit-learn, docker-compose* |
 | [Префиксный поиск по каталогу](https://github.com/VitaliiNovikov75/prefix_search_solution) | Ранжирование | Простая и эффективная система префиксного поиска по каталогу товаров с поддержкой коррекции раскладки и транслитерации на основе Elasticsearch. | *elasticsearch, docker-compose, flask, lxml* |
+| [Геопланирование](https://github.com/VitaliiNovikov75/geoplanning) | Кластеризация (ML) | Приложение для автоматического планирования маршрутов на основе алгоритма машинного обучения без учителя | *streamlit, pandas, numpy, qrcode, Pillow* |
 | [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | Классификация (ML & DL & NLP & CV) | В фотохостинге для профессиональных фотографов «Со Смыслом» необходимо разработать модель поиска изображений | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, pathlib, tqdm, keras, scipy, functools* |
 | [Хлеб-Соль](https://github.com/zipzone07/stability/tree/main/buyers_age) | Регрессия (DL & CV) | Фотофиксация в прикассовой зоне поможет определять возраст клиентов. | *pandas, numpy, matplotlib, plotly, keras* |
 | [Викишоп](https://github.com/zipzone07/stability/tree/main/wikishop) | Классификация (ML & NLP) | Интернет-магазин «Викишоп» запускает новый сервис. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *pandas, numpy, matplotlib, plotly, spacy, nltk, lightgbm, tqdm* |
